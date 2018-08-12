@@ -60,7 +60,7 @@ msgstr "%{count}yr"
 
 #: lib/phoenix_html_simplified_helpers/time_ago_in_words.ex:50
 msgid "half a minute"
-msgstr "%{count}m"
+msgstr "30s"
 
 #: lib/phoenix_html_simplified_helpers/time_ago_in_words.ex:51
 msgid "less than %{count} minute"
